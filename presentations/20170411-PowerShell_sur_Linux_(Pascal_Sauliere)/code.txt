@@ -1,2 +1,0 @@
-Le code de la presentation vient du repo suivant:
-https://github.com/PowerShell/PowerShell/tree/master/demos
